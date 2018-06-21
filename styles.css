@@ -1,0 +1,109 @@
+body {
+ 
+  background-color: gainsboro;
+}
+.starter-template {
+ 
+ 
+
+}
+
+.cover-container {
+  max-width: 40em;
+  margin: 5em auto;
+  text-align: center;
+}
+
+.skills-container {
+  max-width: 20em;
+  text-align: center;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.logo {
+  max-height: 10em;
+  max-width: 10em;
+  
+
+  
+}
+
+.socialicon {
+ 
+  color:darkgray;
+  
+}
+
+.socialbar {
+  
+  margin: 1rem auto 1rem auto;
+  border-top: solid 0.1em;
+  padding-top: 2em;
+}
+
+i:hover {
+    color: #262626;
+}
+
+.bar {
+  margin-bottom: 0.5em;
+  margin-top: 2em;
+}
+
+.contactbar {
+  margin-bottom: 2em;
+  margin-top: 2em;
+}
+
+.progress {
+	
+	background-color: #262626 !important;
+
+	
+}
+
+.progress-bar {
+    background-color: #606060 !important;
+    
+  
+}
+
+.titles {
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+
+.thumbnails img {
+    max-height: 100%;
+    max-width: 100%;
+    background-color: gainsboro;
+  
+}
+
+.thumbnails {
+  background-color: #262626;
+  margin: 2em;
+  color: gainsboro;
+
+}
+
+.photo {
+  max-height: 5em;
+  max-width: 5em;
+  outline: inherit;
+  outline-color: #262626;
+  outline-style: solid;
+  outline-width: medium;
+    
+    
+  }
+a {
+    color: black;
+}
+
+.bg-dark {
+    background-color: #262626 !important;
+}
