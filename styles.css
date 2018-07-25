@@ -1,21 +1,14 @@
 body {
- 
   background-color: gainsboro;
-}
-.starter-template {
- 
- 
-
 }
 
 .cover-container {
-  max-width: 40em;
+  max-width: 50em;
   margin: 5em auto;
-  text-align: center;
 }
 
 .skills-container {
-  max-width: 20em;
+  max-width: 25em;
   text-align: center;
 }
 
@@ -25,27 +18,21 @@ body {
 
 .logo {
   max-height: 10em;
-  max-width: 10em;
-  
-
-  
+  max-width: 10em;  
 }
 
-.socialicon {
- 
+.socialicon { 
   color:darkgray;
-  
 }
 
-.socialbar {
-  
+.socialbar {  
   margin: 1rem auto 1rem auto;
   border-top: solid 0.1em;
   padding-top: 2em;
 }
 
 i:hover {
-    color: #262626;
+  color: #262626;
 }
 
 .bar {
@@ -58,17 +45,12 @@ i:hover {
   margin-top: 2em;
 }
 
-.progress {
-	
-	background-color: #262626 !important;
-
-	
+.progress {	
+  background-color: #262626 !important;
 }
 
 .progress-bar {
-    background-color: #606060 !important;
-    
-  
+  background-color: #606060 !important;
 }
 
 .titles {
@@ -77,17 +59,15 @@ i:hover {
 }
 
 .thumbnails img {
-    max-height: 100%;
-    max-width: 100%;
-    background-color: gainsboro;
-  
+  max-height: 100%;
+  max-width: 100%;
+  background-color: gainsboro;
 }
 
 .thumbnails {
   background-color: #262626;
   margin: 2em;
   color: gainsboro;
-
 }
 
 .photo {
@@ -97,13 +77,25 @@ i:hover {
   outline-color: #262626;
   outline-style: solid;
   outline-width: medium;
-    
-    
-  }
+}
+
 a {
-    color: black;
+  color: black;
 }
 
 .bg-dark {
-    background-color: #262626 !important;
+  background-color: #262626 !important;
 }
+
+.thnail {    
+  max-height: 150px;
+  height: 150px;
+  width: 250px;
+  max-width: 100%;
+  border-radius: 20%;
+  object-fit: cover;
+  border: 1px black solid;
+}
+
+
+
